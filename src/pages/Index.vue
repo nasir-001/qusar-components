@@ -5,9 +5,6 @@
       src="~assets/quasar-logo-full.svg"
     >
   </q-page>
-  <div class="text-center text-gray-400 text-5xl">
-    Nasir
-  </div>
 </template>
 
 <script>
